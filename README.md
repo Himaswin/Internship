@@ -20,7 +20,7 @@ This method generates side-by-side comparisons of brain slices before and after 
 ```bash
 python3 comparison.py
 
-## Method 2: Separate Comparison
+##Method 2: Separate Comparison
 File: `comparison2.py`
 
 This method generates side-by-side comparisons of brain slices before and after extraction in a single image.
